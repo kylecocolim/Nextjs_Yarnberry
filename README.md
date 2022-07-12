@@ -3,6 +3,10 @@
 Basic Initalize for Next.js
 
 ```
+    Install : yarn
+```
+
+```
     "scripts": {
         "dev": "next dev",
         "build": "next build",
